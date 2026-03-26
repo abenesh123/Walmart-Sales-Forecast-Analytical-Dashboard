@@ -1,0 +1,22 @@
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+lightgbm
+xgboost
+statsmodels
+tensorflow
+
+# Database Connectivity
+sqlalchemy
+mysql-connector-python
+
+# Web Dashboard
+streamlit
+
+# Visualization & Utilities
+matplotlib
+seaborn
+joblib
