@@ -22,7 +22,7 @@ def load_model():
 @st.cache_data
 def load_data():
     df = pd.read_csv("walmart-sales-dataset-of-45stores.csv")
-    df["Date"]=pd.to_datetime(df["Date"])
+    df["Date"]=pd.to_datetime(df["Date"],format="%d-%m-%Y")
     return df
 
 model=load_model()
