@@ -21,8 +21,7 @@ def load_model():
 
 @st.cache_data
 def load_data():
-    engine=create_engine("mysql+mysqlconnector://root:abineshmysql%40123@localhost/forecasting")
-    df=pd.read_sql("SELECT * FROM sales",engine)
+    df = pd.read_csv("walmart-sales-dataset-of-45stores.csv")
     df["Date"]=pd.to_datetime(df["Date"])
     return df
 
