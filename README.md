@@ -5,9 +5,6 @@ Alright — I went through your code. You’ve actually built a **solid project*
 
 I’m not going to give you a generic template. This is a **recruiter-ready README** tailored to your exact project.
 
----
-
-# 🔥 Copy this as your `README.md`
 
 ```markdown
 # 🛒 Walmart Sales Forecasting (End-to-End ML Project)
@@ -181,7 +178,8 @@ streamlit run app_forecast.py
 
 ## 👨‍💻 Author
 
-Your Name
+Abenesh
+  -GitHub: @abenesh123
 
 ---
 
