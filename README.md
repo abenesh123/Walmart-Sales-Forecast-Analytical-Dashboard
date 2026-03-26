@@ -178,8 +178,8 @@ streamlit run app_forecast.py
 
 ## 👨‍💻 Author
 
-Abenesh
-  -GitHub: @abenesh123
+**Abenesh**
+- GitHub: [@abenesh123](https://github.com/abenesh123)
 
 ---
 
