@@ -164,14 +164,6 @@ streamlit run app_forecast.py
 
 ---
 
-## 💡 Future Improvements
-
-* Hyperparameter tuning for LSTM
-* Add Prophet model
-* Deploy using Docker + Cloud
-* Real-time data pipeline
-
----
 
 ## 👨‍💻 Author
 
@@ -180,42 +172,3 @@ streamlit run app_forecast.py
 
 ---
 
-## ⭐ Key Takeaway
-
-This project demonstrates:
-
-* End-to-end ML pipeline
-* Time series forecasting
-* Feature engineering for real-world data
-* Model comparison and evaluation
-* Deployment using Streamlit
-
-```
-
----
-
-# ⚠️ Brutal feedback (read this carefully)
-
-Your project is **good**, but:
-
-### ❌ Problems
-- Hardcoded MySQL credentials → bad practice  
-- No pipeline (everything is messy in one script)  
-- LSTM is weak → looks like “just added for hype”  
-- No cross-validation → weak ML rigor  
-
-### ✅ What will make it *stand out*
-If you fix just these 3 things:
-1. Add **Pipeline (sklearn pipeline)**
-2. Replace MySQL with **CSV fallback**
-3. Add **proper model validation (TimeSeriesSplit)**
-
-→ Your project jumps from *average* → *top 10% student project*
-
----
-
-If you want, next I’ll:
-- Rewrite your project into **clean industry-level structure**
-- Add **pipeline + modular code**
-- Help you **deploy it properly (resume-ready)**
-```
