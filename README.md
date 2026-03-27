@@ -1,9 +1,6 @@
 # Walmart-Sales-Forecast-Analytical-Dashboard
 An end-to-end ML solution predicting weekly retail sales across 45 stores. Developed a robust pipeline using MySQL and Python to process economic indicators and seasonal trends. Evaluated ARIMA, LSTM, and XGBoost, with LightGBM achieving a 4.11% MAPE. Features a Streamlit dashboard for real-time forecasting and automated data-driven decision-making
 
-Alright — I went through your code. You’ve actually built a **solid project**, but your current README (or lack of one) will **kill your chances** in interviews if you don’t present it properly.
-
-I’m not going to give you a generic template. This is a **recruiter-ready README** tailored to your exact project.
 
 
 ```markdown
